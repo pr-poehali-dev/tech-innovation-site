@@ -679,7 +679,7 @@ const Index = () => {
           </div>
 
           <div className="border-t border-white/10 pt-8 text-center text-muted-foreground text-sm">
-            <p>© 2024 InnovateTech. Все права защищены.</p>
+            <p>© 2025 InnovateTech. Все права защищены.</p>
             <p className="mt-2">Создано с использованием передовых технологий AI и ML</p>
           </div>
         </div>
